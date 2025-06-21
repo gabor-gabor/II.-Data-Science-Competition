@@ -1,5 +1,5 @@
 # II.-Data-Science-Competition
-# Conducted Exploratory Data Analysis on a real-world but anonymized dataset from MORGENS [MORGENS](https://morgens.hu/) hotel management system
+# Conducted Exploratory Data Analysis on a real-world but anonymized dataset from [MORGENS](https://morgens.hu/) hotel management system
 
 ## 1) Project Background
 This project focuses on analyzing a comprehensive dataset from the hotel and accommodation industry, covering:
