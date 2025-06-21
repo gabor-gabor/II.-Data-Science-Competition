@@ -66,5 +66,5 @@ To process and analyze marketing and booking data across multiple hotel properti
 ### **Current Capabilities & Key Features**
 This model is designed to automatically perform all data manipulations, analyses, and reports with a single click as soon as the next month's source tables are added to the source data folder.
 
-This analysis was initially developed for an internal competition organized by **Data36.com** data science club, where it earned me the **Medior Special Prize** ranking.
+This analysis was initially developed for an internal competition organized by [data36.com](https://data36.com/) data science club, where it earned me the **Medior Special Prize** ranking.
 
